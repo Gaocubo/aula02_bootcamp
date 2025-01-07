@@ -1,3 +1,4 @@
+import math
 # # exemplos
 # nome_aluno = "Gustavo"
 # email_aluno = "gustavo@gmail.com"
@@ -73,7 +74,7 @@ print(f"{celsius}°C é igual a {fahrenheit}°F")
 # 10. Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
 # raio = float(input("Digite o raio do círculo: "))
 raio = 5.0  # Exemplo de entrada
-area = 3.14159 * raio ** 2
+area = math.pi * raio ** 2
 print("A área do círculo é:", area)
 # #### Strings (`str`)
 # 11. Escreva um programa que receba uma string do usuário e a converta para maiúsculas.
