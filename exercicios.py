@@ -75,7 +75,7 @@ print(f"{celsius}°C é igual a {fahrenheit}°F")
 # raio = float(input("Digite o raio do círculo: "))
 raio = 5.0  # Exemplo de entrada
 area = math.pi * raio ** 2
-print("A área do círculo é:", area)
+print(f"{ area:.2f}")
 # #### Strings (`str`)
 # 11. Escreva um programa que receba uma string do usuário e a converta para maiúsculas.
 # texto = input("Digite um texto: ")
