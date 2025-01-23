@@ -1,15 +1,15 @@
 import math
 # # exemplos
-# nome_aluno = "Gustavo"
-# email_aluno = "gustavo@gmail.com"
+nome_aluno = "Gustavo"
+email_aluno = "gustavo@gmail.com"
 
-# print(type(nome_aluno))
-# print(type("Gustavo"))
+print(type(nome_aluno))
+print(type("Gustavo"))
 
-# print(nome_aluno.upper())
-# print(nome_aluno.lower())
+print(nome_aluno.upper())
+print(nome_aluno.lower())
 
-# print(email_aluno.split("@"))
+print(email_aluno.split("@"))
 
 # #### Inteiros (`int`)
 
